@@ -1,0 +1,1 @@
+Upload all files to GitHub Pages root. Edit firebase-config.js with your real Firebase config values.
